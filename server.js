@@ -22,7 +22,7 @@ app.get("/", function (request, response) {
 // this can be accessed at http://localhost:8080/hello
 // and will respond with "Hello World, from the server!"
 app.get("/hello", function (request, response) {
-    response.send("Hello World, from the server!");
+    response.send("This isn't a hello:)");
 });
 
 app.listen(port);

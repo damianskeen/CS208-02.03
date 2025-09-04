@@ -1,7 +1,7 @@
 // This is a simple JavaScript file that adds interactivity to the HTML page
 // It defines a function to show an alert when a link is clicked
 function sayHello() {
-    alert("Hello, world from javascript!");
+    alert("You fell for it didn't you");
 }
 // This function will be called when the link is clicked
 // It shows an alert with a message
